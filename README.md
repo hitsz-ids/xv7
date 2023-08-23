@@ -47,7 +47,7 @@ sudo apt-get install gcc
 ```
 
 ## 5、安装qemu
-安装qemu-system-x86，任务qemu需要使用qemu-system-x86_64命令
+安装qemu-system-x86，操作系统编译完成后将使用qemu启动
 ```shell
 sudo apt-get install qemu-system-x86
 ```
