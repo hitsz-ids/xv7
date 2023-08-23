@@ -5,6 +5,10 @@
 [X86版ubuntu在这里下载](https://ubuntu.com/download/desktop)
 
 [ARM版ubuntu在这里下载](https://ubuntu.com/download/server/arm)
+ARM版ubuntu需要安装桌面
+```shell
+sudo apt-get install ubuntu-desktop
+```
 
 以下步骤在ubuntu 20.04中操作
 
