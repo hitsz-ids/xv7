@@ -53,11 +53,10 @@ sudo apt-get install qemu-system-x86
 ```
 
 ## 6、安装cargo-make
-xv7采用cargo-make作为编译，非cargo build，所以需要安装cargo-make。项目构建文件是Makefile.toml（cargo build使用的是Cargo.toml）
+xv7采用cargo-make作为编译命令
 ```shell
 cargo install cargo-make
 ```
-此时是stable版本的rustc，要编译cargo-make
 
 ## 7、安装cargo-xbuild
 ```shell
