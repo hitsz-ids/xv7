@@ -1,0 +1,16 @@
+cargo-features = ["edition2021"]
+
+[workspace]
+members = [
+    "xv7-usyscall",
+    "xv7-user",
+    "xv7-kernel",
+    "xv7-boot",
+    "xv7-bootloader-uefi",
+]
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
