@@ -10,7 +10,7 @@
 
 ## 2、下载操作系统xv7代码
 ```shell
-git clone https://github.com/imtsuki/xv7.git
+git clone https://github.com/hitsz-ids/xv7.git
 ```
 
 ## 3、安装rust
