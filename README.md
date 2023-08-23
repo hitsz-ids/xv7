@@ -78,5 +78,7 @@ cargo make qemu
 ```
 此时应能正常启动xv7系统
 
+有问题请联系：<jie.lin.fj@gmail.com>
+
 # xv7操作系统原始链接
 https://github.com/imtsuki/xv7
